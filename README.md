@@ -378,5 +378,9 @@ Fungsi tersebut memeriksa:
 Jika ada kolom yang kosong, sistem akan menampilkan pesan peringatan (```alert```) dan form tidak akan dikirim (return false).
 Jika semua kolom terisi, maka muncul pesan bahwa data berhasil dikirim (```return true```).
 
+#### ```- hasil```
+
+![foto]()
+
 
 
