@@ -33,7 +33,7 @@ buat file dengan nama ```lab5_javascript.html```
 
 #### ```- hasil```
 
-![foto]()
+![foto](https://github.com/azkaa-pixel/LAB5WEB/blob/d363050fba4450de5ddda64923971c9abb6fa8ad/praktikum%205/1.png)
 
 ### 2. Menampilkan Output dengan Alert, Prompt, dan Console
 menambahkan kode ini 
@@ -71,9 +71,9 @@ menambahkan kode ini
 
 #### ```- hasil```
 
-![foto]()
-![foto]()
-![foto]()
+![foto](https://github.com/azkaa-pixel/LAB5WEB/blob/d363050fba4450de5ddda64923971c9abb6fa8ad/praktikum%205/2(1).png)
+![foto](https://github.com/azkaa-pixel/LAB5WEB/blob/d363050fba4450de5ddda64923971c9abb6fa8ad/praktikum%205/2(2).png)
+![foto](https://github.com/azkaa-pixel/LAB5WEB/blob/d363050fba4450de5ddda64923971c9abb6fa8ad/praktikum%205/2(3).png)
 
 ### 3. Membuat dan Memanggil Fungsi di JavaScript
 tambahkan kode ini 
@@ -99,8 +99,8 @@ tambahkan kode ini
 
 #### ```- hasil```
 
-![foto]()
-![foto]()
+![foto](https://github.com/azkaa-pixel/LAB5WEB/blob/d363050fba4450de5ddda64923971c9abb6fa8ad/praktikum%205/3(1).png)
+![foto](https://github.com/azkaa-pixel/LAB5WEB/blob/d363050fba4450de5ddda64923971c9abb6fa8ad/praktikum%205/3(2).png)
 
 ### 4. Membuat Fungsi dengan Parameter
 tambahkan kode ini 
@@ -125,8 +125,8 @@ tambahkan kode ini
 
 #### ```- hasil```
 
-![foto]()
-![foto]()
+![foto](https://github.com/azkaa-pixel/LAB5WEB/blob/d363050fba4450de5ddda64923971c9abb6fa8ad/praktikum%205/4(1).png)
+![foto](https://github.com/azkaa-pixel/LAB5WEB/blob/d363050fba4450de5ddda64923971c9abb6fa8ad/praktikum%205/4(2).png)
 
 ### 5. Input dan Output pada JavaScript
 tambahkan kode ini
@@ -158,8 +158,8 @@ tambahkan kode ini
 
 #### ```- hasil```
 
-![foto]()
-![foto]()
+![foto](https://github.com/azkaa-pixel/LAB5WEB/blob/d363050fba4450de5ddda64923971c9abb6fa8ad/praktikum%205/5(1).png)
+![foto](https://github.com/azkaa-pixel/LAB5WEB/blob/d363050fba4450de5ddda64923971c9abb6fa8ad/praktikum%205/5(2).png)
 
 ### 6. Struktur Percabangan IF...ELSE
 
@@ -189,8 +189,8 @@ tambahkan kode ini
 
 #### ```- hasil```
 
-![foto]()
-![foto]()
+![foto](https://github.com/azkaa-pixel/LAB5WEB/blob/d363050fba4450de5ddda64923971c9abb6fa8ad/praktikum%205/6(1).png)
+![foto](https://github.com/azkaa-pixel/LAB5WEB/blob/d363050fba4450de5ddda64923971c9abb6fa8ad/praktikum%205/6(2).png)
 
 ### 7. Struktur SWITCH  
 
@@ -239,9 +239,9 @@ tambahkan kode ini
 ```default:``` → dijalankan kalau nilai yang dimasukkan tidak cocok dengan salah satu ```case```.
 
 #### ```- hasil```
-![foto]()
-![foto]()
-![foto]()
+![foto](https://github.com/azkaa-pixel/LAB5WEB/blob/d363050fba4450de5ddda64923971c9abb6fa8ad/praktikum%205/7(1).png)
+![foto](https://github.com/azkaa-pixel/LAB5WEB/blob/d363050fba4450de5ddda64923971c9abb6fa8ad/praktikum%205/7(2).png)
+![foto](https://github.com/azkaa-pixel/LAB5WEB/blob/d363050fba4450de5ddda64923971c9abb6fa8ad/praktikum%205/7(3).png)
 
 ### 8. Tugas 1: Validasi Form 
 
@@ -279,8 +279,8 @@ tambahkan kode ini
 Jika salah satu kosong, akan tampil ```alert``` dan proses form berhenti (```return false```).
 
 #### ```- hasil```
-![foto]()
-![foto]()
+![foto](https://github.com/azkaa-pixel/LAB5WEB/blob/d363050fba4450de5ddda64923971c9abb6fa8ad/praktikum%205/8%20(1).png)
+![foto](https://github.com/azkaa-pixel/LAB5WEB/blob/d363050fba4450de5ddda64923971c9abb6fa8ad/praktikum%205/8(2).png)
 
 ### 9. Tugas 2: Perhitungan Otomatis (Checkbox)
 
@@ -322,7 +322,7 @@ Jika salah satu kosong, akan tampil ```alert``` dan proses form berhenti (```ret
 ```document.getElementById("total").value = total;``` → menampilkan total harga akhir ke dalam textbox hasil.
 
 #### ```- hasil```
-![foto]()
+![foto](https://github.com/azkaa-pixel/LAB5WEB/blob/d363050fba4450de5ddda64923971c9abb6fa8ad/praktikum%205/9.png)
 
 # TUGAS 
 
@@ -380,7 +380,7 @@ Jika semua kolom terisi, maka muncul pesan bahwa data berhasil dikirim (```retur
 
 #### ```- hasil```
 
-![foto]()
+![foto](https://github.com/azkaa-pixel/LAB5WEB/blob/d363050fba4450de5ddda64923971c9abb6fa8ad/praktikum%205/jawaban.png)
 
 
 
